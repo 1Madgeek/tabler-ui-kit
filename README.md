@@ -4,7 +4,7 @@
 
 ## Figma Design Board
 
-Check out the [Figma design board](https://www.figma.com/design/v6gnDiEWtSk0kxScI6sN3z/Tabler-Ui-Kit?node-id=0-1&node-type=canvas) for this project. We’re building an open-source Figma kit for the Tabler UI components.
+Check out our [Figma design board](https://www.figma.com/design/v6gnDiEWtSk0kxScI6sN3z/Tabler-Ui-Kit?node-id=0-1&node-type=canvas) for the Tabler UI Kit!
 
 
 ## Feedback and Suggestions
