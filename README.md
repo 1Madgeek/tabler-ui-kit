@@ -16,3 +16,19 @@ Thank you for your support and contributions!
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-pink.svg)](https://github.com/sponsors/1Madgeek)
 
 If you find this project useful and would like to support its development, consider [sponsoring me on GitHub](https://github.com/sponsors/1Madgeek).
+
+We are grateful to the following individuals and organizations for supporting this project:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/1Madgeek">
+        <img src="https://avatars.githubusercontent.com/u/33049092?s=200&v=4" width="100px;" alt="Sponsor 1"/>
+        <br/>
+        <sub><b>Madgeek</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+Want to see your profile here? [Become a sponsor](https://github.com/sponsors/1Madgeek)!
