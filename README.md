@@ -6,6 +6,7 @@
 
 Check out our [Figma design board](https://www.figma.com/design/v6gnDiEWtSk0kxScI6sN3z/Tabler-Ui-Kit?node-id=0-1&node-type=canvas) for the Tabler UI Kit!
 
+[Download Figma File](https://madgeekabhijit.gumroad.com/l/tabler-ui-kit) (Coming Soon)
 
 ## Feedback and Suggestions
 
