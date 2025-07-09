@@ -8,7 +8,7 @@ Check out our [Figma design board](https://www.figma.com/design/v6gnDiEWtSk0kxSc
 
 [Download Figma File](https://madgeekabhijit.gumroad.com/l/tabler-ui-kit) (Coming Soon)
 
-## 📄 License
+## License
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.
 
