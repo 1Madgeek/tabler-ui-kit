@@ -8,6 +8,16 @@ Check out our [Figma design board](https://www.figma.com/design/v6gnDiEWtSk0kxSc
 
 [Download Figma File](https://madgeekabhijit.gumroad.com/l/tabler-ui-kit) (Coming Soon)
 
+## 📄 License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.
+
+- ✅ Free for personal and business use (single product or client)
+- 🚫 Not permitted for use by agencies across multiple clients or for resale/redistribution
+- 📌 Attribution required
+
+Read the full license terms here: [LICENSE.md](./LICENSE.md)
+
 ## Feedback and Suggestions
 
 We’re building this Figma design kit to help the community, and your feedback would be invaluable! If you have any suggestions, ideas, or improvements, we’d love to hear them.
