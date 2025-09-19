@@ -26,6 +26,25 @@ Feel free to leave your feedback or suggestions in the [Tabler GitHub discussion
 
 Thank you for your support and contributions!
 
+## About the Creator
+
+👋 Hi, we’re [Madgeek](https://www.madgeek.in), a product and software development studio based in Bangalore, India.
+
+We specialize in:
+
+🚀 End-to-end product development – from idea to scalable solutions
+
+🎨 Custom UI/UX design – intuitive, user-friendly, and beautiful
+
+⚡ Workflow automation & integrations – streamlining business processes
+
+🛠️ Open-source tools – like [React Flow Builder](https://github.com/sponsors/1Madgeek/dashboard/profile#) and [Tabler UI Kit](https://github.com/sponsors/1Madgeek/dashboard/profile#)
+
+We’re passionate about building scalable software products, collaborating with innovative teams, and contributing to the open-source community.
+
+💡 If you’re looking for a technology partner to bring your product idea to life or need help with custom software development, we’d love to collaborate.
+
+📩 Reach out to us for partnerships, project collaborations, or consulting opportunities - [hello@madgeek.in](mailto:hello@madgeek.in/)
 
 ## 💕 Sponsor Tabler Figma UI Kit
 
