@@ -38,7 +38,7 @@ We specialize in:
 
 ⚡ Workflow automation & integrations – streamlining business processes
 
-🛠️ Open-source tools – like [React Flow Builder](https://github.com/sponsors/1Madgeek/dashboard/profile#) and [Tabler UI Kit](https://github.com/sponsors/1Madgeek/dashboard/profile#)
+🛠️ Open-source tools – like [React Flow Builder](https://github.com/1Madgeek/react-flow-builder) and [Tabler UI Kit](https://github.com/1Madgeek/tabler-ui-kit)
 
 We’re passionate about building scalable software products, collaborating with innovative teams, and contributing to the open-source community.
 
